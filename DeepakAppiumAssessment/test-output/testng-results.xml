@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-20T15:46:51 IST" name="Default suite" finished-at="2024-08-20T15:47:13 IST" duration-ms="22935">
+    <groups>
+    </groups>
+    <test started-at="2024-08-20T15:46:51 IST" name="Default test" finished-at="2024-08-20T15:47:13 IST" duration-ms="22935">
+      <class name="com.mvn.ScrollDemo">
+        <test-method is-config="true" signature="test()[pri:0, instance:com.mvn.ScrollDemo@233795b6]" started-at="2024-08-20T15:46:51 IST" name="test" finished-at="2024-08-20T15:46:56 IST" duration-ms="5708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="Scroll()[pri:0, instance:com.mvn.ScrollDemo@233795b6]" started-at="2024-08-20T15:46:56 IST" name="Scroll" finished-at="2024-08-20T15:47:11 IST" duration-ms="14788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scroll -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.mvn.ScrollDemo@233795b6]" started-at="2024-08-20T15:47:11 IST" name="aftermethod" finished-at="2024-08-20T15:47:13 IST" duration-ms="2405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.mvn.ScrollDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
